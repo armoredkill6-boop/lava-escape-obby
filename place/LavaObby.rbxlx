@@ -1,0 +1,557 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+<Item class="Workspace" referent="RBX0046"><Properties><string name="Name">Workspace</string></Properties>
+<Item class="SpawnLocation" referent="RBX0045"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>-14</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">Spawn</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item>
+<Item class="Folder" referent="RBX0047"><Properties><string name="Name">Checkpoints</string></Properties><Item class="Part" referent="RBX0001"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">1</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0002"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>40</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">2</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0003"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>80</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">3</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0004"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>120</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">4</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0005"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>160</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">5</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0006"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>200</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">6</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0007"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>240</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">7</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0008"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>280</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">8</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0009"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>320</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282173530</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">9</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0010"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>360</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4294953000</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">10</string>
+<Vector3 name="size"><X>10</X><Y>1</Y><Z>10</Z></Vector3>
+</Properties></Item></Item>
+<Item class="Folder" referent="RBX0048"><Properties><string name="Name">Platforms</string></Properties><Item class="Part" referent="RBX0011"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>10</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S1_0</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0012"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>17</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S1_1</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0013"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>24</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S1_2</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0014"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>31</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S1_3</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0015"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>4</X><Y>0</Y><Z>50</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S2_0</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0016"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>-4</X><Y>0</Y><Z>57</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S2_1</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0017"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>4</X><Y>0</Y><Z>64</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S2_2</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0018"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>-4</X><Y>0</Y><Z>71</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S2_3</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0019"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>100</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4281808705</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S3_beam</string>
+<Vector3 name="size"><X>1.5</X><Y>1</Y><Z>30</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0020"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>2</Y><Z>130</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S4_0</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0021"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>4</Y><Z>137</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S4_1</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0022"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>3</Y><Z>144</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S4_2</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0023"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>1</Y><Z>151</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S4_3</string>
+<Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0024"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>180</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4281808705</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S5_path</string>
+<Vector3 name="size"><X>6</X><Y>1</Y><Z>30</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0031"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>249</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S7_0</string>
+<Vector3 name="size"><X>2</X><Y>1</Y><Z>2</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0032"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>255</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S7_1</string>
+<Vector3 name="size"><X>2</X><Y>1</Y><Z>2</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0033"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>261</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S7_2</string>
+<Vector3 name="size"><X>2</X><Y>1</Y><Z>2</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0034"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>267</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S7_3</string>
+<Vector3 name="size"><X>2</X><Y>1</Y><Z>2</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0035"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>273</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S7_4</string>
+<Vector3 name="size"><X>2</X><Y>1</Y><Z>2</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0036"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>300</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4281808705</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S8_path</string>
+<Vector3 name="size"><X>8</X><Y>1</Y><Z>30</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0040"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>330</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S9_0</string>
+<Vector3 name="size"><X>1.5</X><Y>1</Y><Z>1.5</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0041"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>336.5</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S9_1</string>
+<Vector3 name="size"><X>1.5</X><Y>1</Y><Z>1.5</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0042"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>343</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S9_2</string>
+<Vector3 name="size"><X>1.5</X><Y>1</Y><Z>1.5</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0043"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>349.5</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4284111460</Color3uint8>
+<token name="Material">272</token>
+<string name="Name">S9_3</string>
+<Vector3 name="size"><X>1.5</X><Y>1</Y><Z>1.5</Z></Vector3>
+</Properties></Item></Item>
+<Item class="Folder" referent="RBX0049"><Properties><string name="Name">KillBricks</string></Properties><Item class="Part" referent="RBX0025"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>1.25</Y><Z>172</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4294912040</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">S5_kill0</string>
+<Vector3 name="size"><X>6</X><Y>1.5</Y><Z>1</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0026"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>1.25</Y><Z>180</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4294912040</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">S5_kill1</string>
+<Vector3 name="size"><X>6</X><Y>1.5</Y><Z>1</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0027"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>1.25</Y><Z>188</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4294912040</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">S5_kill2</string>
+<Vector3 name="size"><X>6</X><Y>1.5</Y><Z>1</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0037"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>-2</X><Y>0.6</Y><Z>292</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4294912040</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">S8_killL</string>
+<Vector3 name="size"><X>4</X><Y>0.2</Y><Z>5</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0038"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>2</X><Y>0.6</Y><Z>302</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4294912040</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">S8_killR</string>
+<Vector3 name="size"><X>4</X><Y>0.2</Y><Z>5</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0039"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>-2</X><Y>0.6</Y><Z>310</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4294912040</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">S8_killL2</string>
+<Vector3 name="size"><X>4</X><Y>0.2</Y><Z>4</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0044"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>-8</Y><Z>180</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4294924800</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">LavaFloor</string>
+<Vector3 name="size"><X>80</X><Y>1</Y><Z>440</Z></Vector3>
+</Properties></Item></Item>
+<Item class="Folder" referent="RBX0050"><Properties><string name="Name">MovingPlatforms</string></Properties><Item class="Part" referent="RBX0028"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>210</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282160895</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">S6_lift0</string>
+<Vector3 name="size"><X>5</X><Y>1</Y><Z>5</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0029"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>220</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282160895</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">S6_lift1</string>
+<Vector3 name="size"><X>5</X><Y>1</Y><Z>5</Z></Vector3>
+</Properties></Item><Item class="Part" referent="RBX0030"><Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame"><X>0</X><Y>0</Y><Z>230</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame>
+<Color3uint8 name="Color3uint8">4282160895</Color3uint8>
+<token name="Material">288</token>
+<string name="Name">S6_lift2</string>
+<Vector3 name="size"><X>5</X><Y>1</Y><Z>5</Z></Vector3>
+</Properties></Item></Item>
+</Item>
+<Item class="ServerScriptService" referent="RBX0051"><Properties><string name="Name">ServerScriptService</string></Properties>
+<Item class="Script" referent="RBX0052"><Properties><string name="Name">GameServer</string><ProtectedString name="Source"><![CDATA[-- GameServer — положить как Script в ServerScriptService
+-- Чекпоинты с сохранением, смертельные блоки, двигающиеся платформы,
+-- геймпасс на скорость и платный пропуск уровня.
+
+local Players = game:GetService("Players")
+local DataStoreService = game:GetService("DataStoreService")
+local MarketplaceService = game:GetService("MarketplaceService")
+local TweenService = game:GetService("TweenService")
+
+-- ===== НАСТРОЙКИ =====
+local SPEED_PASS_ID = 0      -- ID геймпасса «Speed» (вставь после создания)
+local SKIP_PRODUCT_ID = 0    -- ID Developer Product «Skip Stage» (вставь после создания)
+local NORMAL_SPEED = 16
+local BOOST_SPEED = 26
+-- =====================
+
+local stageStore = DataStoreService:GetDataStore("ObbyStage_v1")
+local checkpoints = workspace:WaitForChild("Checkpoints")
+
+local maxStage = 0
+for _, cp in ipairs(checkpoints:GetChildren()) do
+	local n = tonumber(cp.Name)
+	if n and n > maxStage then
+		maxStage = n
+	end
+end
+
+local function getStage(player)
+	local stats = player:FindFirstChild("leaderstats")
+	return stats and stats:FindFirstChild("Stage")
+end
+
+local function teleportToStage(player)
+	local character = player.Character
+	local stage = getStage(player)
+	if not character or not stage then return end
+	local root = character:WaitForChild("HumanoidRootPart", 5)
+	local cp = checkpoints:FindFirstChild(tostring(stage.Value))
+	if root and cp then
+		character:PivotTo(cp.CFrame + Vector3.new(0, 4, 0))
+	end
+end
+
+local function setSpeed(player, owns)
+	local character = player.Character
+	local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+	if humanoid then
+		humanoid.WalkSpeed = owns and BOOST_SPEED or NORMAL_SPEED
+	end
+end
+
+local function checkSpeedPass(player)
+	if SPEED_PASS_ID == 0 then
+		setSpeed(player, false)
+		return
+	end
+	local ok, owns = pcall(function()
+		return MarketplaceService:UserOwnsGamePassAsync(player.UserId, SPEED_PASS_ID)
+	end)
+	setSpeed(player, ok and owns)
+end
+
+local function onCharacter(player)
+	task.wait(0.1)
+	teleportToStage(player)
+	checkSpeedPass(player)
+end
+
+-- ===== ИГРОКИ И СОХРАНЕНИЕ =====
+Players.PlayerAdded:Connect(function(player)
+	local stats = Instance.new("Folder")
+	stats.Name = "leaderstats"
+
+	local stage = Instance.new("IntValue")
+	stage.Name = "Stage"
+	stage.Value = 1
+	stage.Parent = stats
+
+	local ok, saved = pcall(function()
+		return stageStore:GetAsync(tostring(player.UserId))
+	end)
+	if ok and typeof(saved) == "number" then
+		stage.Value = math.clamp(saved, 1, math.max(maxStage, 1))
+	end
+
+	stats.Parent = player
+
+	player.CharacterAdded:Connect(function()
+		onCharacter(player)
+	end)
+	if player.Character then
+		onCharacter(player)
+	end
+end)
+
+local function save(player)
+	local stage = getStage(player)
+	if not stage then return end
+	pcall(function()
+		stageStore:SetAsync(tostring(player.UserId), stage.Value)
+	end)
+end
+
+Players.PlayerRemoving:Connect(save)
+game:BindToClose(function()
+	for _, player in ipairs(Players:GetPlayers()) do
+		save(player)
+	end
+end)
+
+-- ===== ЧЕКПОИНТЫ =====
+for _, cp in ipairs(checkpoints:GetChildren()) do
+	local number = tonumber(cp.Name)
+	if cp:IsA("BasePart") and number then
+		cp.Touched:Connect(function(hit)
+			local character = hit.Parent
+			local player = Players:GetPlayerFromCharacter(character)
+			local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+			if not player or not humanoid or humanoid.Health <= 0 then return end
+			local stage = getStage(player)
+			if stage and number == stage.Value + 1 then
+				stage.Value = number
+			end
+		end)
+	end
+end
+
+-- ===== СМЕРТЕЛЬНЫЕ БЛОКИ =====
+local killBricks = workspace:FindFirstChild("KillBricks")
+if killBricks then
+	for _, part in ipairs(killBricks:GetDescendants()) do
+		if part:IsA("BasePart") then
+			part.Touched:Connect(function(hit)
+				local humanoid = hit.Parent and hit.Parent:FindFirstChildOfClass("Humanoid")
+				if humanoid then
+					humanoid.Health = 0
+				end
+			end)
+		end
+	end
+end
+
+-- ===== ДВИГАЮЩИЕСЯ ПЛАТФОРМЫ =====
+-- У платформы можно задать атрибуты: Offset (Vector3) и Time (number)
+local moving = workspace:FindFirstChild("MovingPlatforms")
+if moving then
+	for _, part in ipairs(moving:GetChildren()) do
+		if part:IsA("BasePart") then
+			part.Anchored = true
+			local offset = part:GetAttribute("Offset") or Vector3.new(0, 8, 0)
+			local duration = part:GetAttribute("Time") or 3
+			local info = TweenInfo.new(duration, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut, -1, true)
+			TweenService:Create(part, info, { CFrame = part.CFrame + offset }):Play()
+		end
+	end
+end
+
+-- ===== МОНЕТИЗАЦИЯ =====
+MarketplaceService.PromptGamePassPurchaseFinished:Connect(function(player, passId, purchased)
+	if purchased and passId == SPEED_PASS_ID then
+		setSpeed(player, true)
+	end
+end)
+
+MarketplaceService.ProcessReceipt = function(receipt)
+	local player = Players:GetPlayerByUserId(receipt.PlayerId)
+	if not player then
+		return Enum.ProductPurchaseDecision.NotProcessedYet
+	end
+
+	if receipt.ProductId == SKIP_PRODUCT_ID then
+		local stage = getStage(player)
+		if not stage then
+			return Enum.ProductPurchaseDecision.NotProcessedYet
+		end
+		stage.Value = math.min(stage.Value + 1, maxStage)
+		teleportToStage(player)
+		return Enum.ProductPurchaseDecision.PurchaseGranted
+	end
+
+	return Enum.ProductPurchaseDecision.NotProcessedYet
+end
+]]></ProtectedString></Properties></Item>
+</Item>
+<Item class="StarterPlayer" referent="RBX0053"><Properties><string name="Name">StarterPlayer</string></Properties>
+<Item class="StarterPlayerScripts" referent="RBX0054"><Properties><string name="Name">StarterPlayerScripts</string></Properties>
+<Item class="LocalScript" referent="RBX0055"><Properties><string name="Name">ShopGui</string><ProtectedString name="Source"><![CDATA[-- ShopGui — положить как LocalScript в StarterPlayer > StarterPlayerScripts
+-- Создаёт две кнопки: покупка скорости и пропуск уровня.
+
+local Players = game:GetService("Players")
+local MarketplaceService = game:GetService("MarketplaceService")
+
+-- ===== НАСТРОЙКИ (те же ID, что в GameServer) =====
+local SPEED_PASS_ID = 0
+local SKIP_PRODUCT_ID = 0
+-- ==================================================
+
+local player = Players.LocalPlayer
+
+local gui = Instance.new("ScreenGui")
+gui.Name = "ShopGui"
+gui.ResetOnSpawn = false
+gui.Parent = player:WaitForChild("PlayerGui")
+
+local function makeButton(text, xOffset, color, onClick)
+	local button = Instance.new("TextButton")
+	button.Size = UDim2.new(0, 170, 0, 50)
+	button.AnchorPoint = Vector2.new(0, 1)
+	button.Position = UDim2.new(0, xOffset, 1, -20)
+	button.BackgroundColor3 = color
+	button.TextColor3 = Color3.new(1, 1, 1)
+	button.Font = Enum.Font.GothamBold
+	button.TextScaled = true
+	button.Text = text
+	button.Parent = gui
+
+	local corner = Instance.new("UICorner")
+	corner.CornerRadius = UDim.new(0, 12)
+	corner.Parent = button
+
+	button.Activated:Connect(onClick)
+end
+
+if SPEED_PASS_ID ~= 0 then makeButton("SPEED BOOST", 20, Color3.fromRGB(255, 170, 0), function()
+	MarketplaceService:PromptGamePassPurchase(player, SPEED_PASS_ID)
+end) end
+
+if SKIP_PRODUCT_ID ~= 0 then makeButton("SKIP STAGE", 200, Color3.fromRGB(0, 160, 255), function()
+	MarketplaceService:PromptProductPurchase(player, SKIP_PRODUCT_ID)
+end) end
+]]></ProtectedString></Properties></Item>
+</Item></Item>
+</roblox>
